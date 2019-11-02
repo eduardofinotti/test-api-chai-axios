@@ -5,5 +5,5 @@
 - $node axios-teste.js
 
 # Para executar o chai:
-- $cha
+- $chai
 
